@@ -182,7 +182,7 @@ header::before {
     right: 0;
     bottom: 0;
     display: block;
-    background: url(../pictures/aw-creative-VjRpkGtS55w-unsplash.jpg);
+    background: url(./pictures/aw-creative-VjRpkGtS55w-unsplash.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
     transform-origin: center center 0;
