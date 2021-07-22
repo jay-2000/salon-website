@@ -1,1 +1,4 @@
-# salon-website
+# salon-website template
+
+
+-First look
